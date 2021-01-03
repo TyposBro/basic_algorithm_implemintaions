@@ -2,6 +2,7 @@ from base_expansion import base_expansion as be
 
 
 def binary_addition(num1, num2):
+    """Return binary addition"""
     a = _helper(num1)
     b = _helper(num2)
     c = 0
