@@ -1,1 +1,1 @@
-# basic algorithm implemintaions in python
+# basic algorithm implemintaions
