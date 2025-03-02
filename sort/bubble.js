@@ -12,5 +12,5 @@ const bubbleSort = (arr) => {
   return arr;
 };
 
-const res = bubbleSort([2, 8, 5, 3, 9, 4, 1, 10]);
+const res = mergeSort([2, 8, 5, 3, 9, 4, 1, 10]);
 console.log(res);
